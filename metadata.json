@@ -1,0 +1,6 @@
+{
+  "name": "PitchPulse - Sales Coaching Intelligence",
+  "description": "AI-powered sales coaching intelligence platform with diarized transcripts, sentiment & engagement timeline graphs, and 3x3 coaching cards.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
